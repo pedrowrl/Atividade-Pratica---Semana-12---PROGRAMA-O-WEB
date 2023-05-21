@@ -1,0 +1,40 @@
+[
+    {
+      "personagem": "Homer Simpson",
+      "ocupação": "Inspetor irresponsável da Usina Nuclear de Springfield",
+      "registrosRelacionados": [
+        { "personagem": "Moe Szyslak", "ocupação": "Dono do Bar de Moe" },
+        { "personagem": "Ned Flanders", "ocupação": "Vizinho" }
+      ]
+    },
+    {
+      "personagem": "Marge Simpson",
+      "ocupação": "Dona de Casa",
+      "registrosRelacionados": [
+        { "personagem": "Patty Bouvier", "ocupação": "Irmã gêmea de Selma Bouvier" },
+        { "personagem": "Selma Bouvier", "ocupação": "Irmã gêmea de Patty Bouvier" }
+      ]
+    },
+    {
+      "personagem": "Bart Simpson",
+      "ocupação": "Estudante ruim",
+      "registrosRelacionados": [
+        { "personagem": "Milhouse Van Houten", "ocupação": "Amigo de Bart" },
+        { "personagem": "Nelson Muntz", "ocupação": "Valentão da escola" }
+      ]
+    },
+    {
+      "personagem": "Lisa Simpson",
+      "ocupação": "Estudante genial",
+      "registrosRelacionados": [
+        { "personagem": "Milhouse Van Houten", "ocupação": "Amigo de Lisa" },
+        { "personagem": "Ralph Wiggum", "ocupação": "Colega de classe" }
+      ]
+    },
+    {
+      "personagem": "Maggie Simpson",
+      "ocupação": "Bebê",
+      "registrosRelacionados": []
+    }
+  ]
+  
